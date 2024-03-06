@@ -1,14 +1,4 @@
-li:hover{
-    color:brown
-    text-align:center
-}
-.blue{
-    color:blue 
-
-}
-.red{
- color:black
-}
-{
-    color:red
+p{
+    color:blue;
+    font-size:200%;
 }
